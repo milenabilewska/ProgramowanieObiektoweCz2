@@ -1,4 +1,4 @@
-package org.example.Enkapsulacja;
+package org.example.Enkapsulacja.Enkapsulacja;
 
 public class Osoba {
     private String  imie;
